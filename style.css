@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+}
+
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50pt;
+}
+
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#gif {
+    width: 100%;
+    border: 1px yellow solid;
+}
+
+
+#container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
